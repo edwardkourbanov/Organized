@@ -1,0 +1,16 @@
+1603776366 - DEBUG --> getting a connection 
+1603776366 - DEBUG --> getting a connection 
+1603776969 - DEBUG --> getting a connection 
+1603776970 - DEBUG --> attempting to login user [edwardkourbanov] with password [gooseguy] 
+1603776970 - DEBUG --> login success 
+1603776970 - DEBUG --> getting a connection 
+1603776970 - DEBUG --> attempting to login user [edwardkourbanov] with password [gooseguy] 
+1603776970 - DEBUG --> login success 
+1603776970 - DEBUG --> getting a connection 
+1603776970 - DEBUG --> getUserId got userID [1] 
+1603776970 - DEBUG --> getting a connection 
+1603777001 - DEBUG --> getting a connection 
+1603777001 - DEBUG --> getting a connection 
+1603777001 - DEBUG --> getting a connection 
+1603777002 - DEBUG --> attempting to register user [gooseguy] with password [gooseguy] and email [gooseman@gmail.com] 
+1603777002 - DEBUG --> register success 

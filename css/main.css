@@ -1,0 +1,164 @@
+.wrapper{
+margin-left: auto;
+margin-right: auto;
+width: 1800px;
+padding: 0;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.icon {
+height: 20px;
+margin-right: 15;
+margin-left: -15;
+vertical-align: middle;
+}
+
+footer ol li{
+	display: inline;
+	margin: auto 75;
+	color: blue;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.menubar li {
+	display: inline;
+	padding: 10 50;
+	margin: auto 10;
+	min-width: 300;
+	border: 2px solid gray;
+	font-family: "Arial";
+}
+
+#main_background div ol li img#logo{
+	height: 50;
+	vertical-align: top;
+	margin-right: 20px;
+}
+
+li h1 {
+	display: inline;
+	font-size: 45;
+	padding: 0;
+	margin: 0;
+	font-family: 'Righteous', cursive;
+	font-weight: normal;
+}
+
+h2{
+	font-size: 30;
+	margin: 15 15;
+}
+
+div.list h2{
+	font-size: 30;
+}
+
+footer {
+	display: inline;
+	padding: 0;
+}
+
+#menu_seperation {
+	margin: 0 130 0 90;
+	padding: 0;
+	border: none;
+}
+
+hr{
+	border: 1px solid gray;
+}
+
+#clear_line{
+	clear: both;
+	padding-bottom:  0;
+	margin-bottom:  0;
+}
+
+.list {
+	float: left;
+	margin: 10 auto;
+	margin-bottom: 20;
+	margin-right: 20;
+	min-width: 22%;
+	height: 81%;
+	font-size: 28;
+	font-family: "Arial";
+	border: 2px solid black;
+	background-color: #7CB7FF;
+	padding: 10;
+}
+
+.list_item {
+	font-size: 22;
+	margin-left: 20;
+	height: 25px;
+	width: 25px;
+	vertical-align: top;
+}
+
+.add_list {
+	float: left;
+	padding: 20;
+	margin: 10 auto;
+	margin-left: 0;
+	margin-right: 20;
+	width: 2%;
+	height: 43px;
+	font-size: 40;
+	text-align: center;
+	font-weight: bold;
+	border: 2px solid black;
+	background-color: #7CB7FF;
+}
+
+#main_background div ol li#menubar_signed_in{
+	background-color: #7CB7FF;
+}
+
+#folders{
+	float: left;
+	margin: 10 0;
+	width: auto;
+	height: auto;
+	padding: 0;
+}
+div.folder{
+	float: none;
+	margin-bottom: 10;
+	max-width: 365px;
+	height: auto;
+	font-size: 20;
+	font-family: "Arial";
+	border: 2px solid black;
+	padding: 10;
+	text-align: center;
+	padding-bottom:0;
+}
+div.folder span > img{
+	height: 40px;
+	vertical-align: bottom;
+}
+div.folder span{
+	word-wrap: break-word;
+	text-align: middle;
+}
+div.folder div{
+	font-size: 12pt;
+	word-wrap: break-word;
+	margin: 5;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited{
+	color: blue;
+}
+
+.menu_hidden{
+	visibility: hidden;
+}

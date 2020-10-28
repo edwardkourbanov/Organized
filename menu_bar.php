@@ -1,0 +1,34 @@
+<?php
+session_start();
+?>
+<html>
+	<head>
+		<link href="images/main_folder.png" type="image/png" rel="shortcut icon"/>
+		<link href="css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/about.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/create_folder.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/register.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/sign_in.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/settings.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="css/calendar.css" type="text/css" rel="stylesheet" media="screen"/>
+		<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+	</head>
+	<meta http-equiv="content-language" content="en" />
+	
+	<header></header>
+	
+
+	
+	<body id="main_background">
+		<div class="wrapper">
+			<ol class="menubar">
+				<li><img class="icon" src="images/filing_cabinet.png"/><a href="index.php">Home</a></li>
+				<li class="menu_hidden"><a href="create_folder.php">Create Folder</a></li>
+				<li class="menu_hidden"><a href="calendar.php">Calendar</a></li>
+				<li id="menu_seperation"><img src="images/main_folder.png" id="logo"><h1>Organized</h1></li>
+				<li class="menu_hidden"><img class="icon" src="images/gear_icon.png"/><a href="settings_basic.php">Settings</a></li>
+				<li><a href="sign_in.php">Sign-In</a></li>
+				<li><a href="register.php">Register</a></li>
+			</ol>
+		<hr/>
+		

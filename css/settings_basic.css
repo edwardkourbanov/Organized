@@ -1,0 +1,76 @@
+#settings_basic > Span {
+	font-size: 32;
+	font-weight: bold;
+	position: relative;
+	margin-right: 359;
+	left: 2%;
+	}
+	
+#settings_basic div{
+	font-size: 28;
+	margin: 40 auto;
+	}
+
+#settings_basic div img{
+	width: 75px;
+	vertical-align: middle;
+	margin: auto 10;
+}
+
+#settings_basic #settings_basic_exit {
+	position: absolute;
+	left: 93.7%;
+	top: -2;
+	border: 2px solid black;
+	font-family: "Arial";
+	font-size: 32;
+	font-weight: bold;
+	padding: 7 12;
+}
+
+#settings_basic{
+	font-family: "Arial";
+	width: 700px;
+	height: 500px;
+	border: 2px solid black;
+	padding: 20;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	right: 3%;
+	bottom: -9px;
+	z-index: 2;
+	background-color: #7CB7FF;
+}
+
+#settings_basic div span{
+	border: 2px solid black;
+	margin: 10;
+	padding: 10;
+}
+
+#settings_basic div #settings_message{
+	font-size: 14;
+	border: none;
+	padding: 0;
+}
+
+#settings_basic div span.settings_sign_in_buttons{
+	font-size: 14;
+}
+	
+
+#settings_basic div span#round {
+	border-radius: 10px;
+}
+
+#settings_basic div#clear_data{
+	font-size: 28;
+	border: 2px solid black;
+	color: red;
+	width: 30%;
+	position: relative;
+	right: 240px;
+	margin-top: 70px;
+}
+

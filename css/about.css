@@ -1,0 +1,35 @@
+.about_text{
+	font-size: 20;
+	font-family: "Arial";
+	margin: 20;
+}
+
+#about Span {
+	font-size: 32;
+	font-weight: bold;
+	font-family: "Arial";
+	position: relative;
+	left: 40%;
+	}
+
+#about #about_exit {
+	position: absolute;
+	left: 90.5%;
+	top: -2;
+	border: 2px solid black;
+	font-family: "Arial";
+	padding: 7 12;
+}
+
+#about{
+	width: 500px;
+	border: 2px solid black;
+	padding: 10 0 0 0;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	right: 3%;
+	bottom: -9px;
+	z-index: 2;
+	background-color: #7CB7FF;
+}
