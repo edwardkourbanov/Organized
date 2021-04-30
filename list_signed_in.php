@@ -1,59 +1,86 @@
-		<div class="list">
-		<h2>Homework</h2>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>CS401 HW7</span>
-			</div>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>CS401 Midterm</span>
-			</div>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>OS Module 4</span>
-			</div>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>Add Item +</span>
-			</div>
+		<div class="list_spacing">
 		</div>
+		<?php
+		require_once 'Dao_local.php';
+		$dao = new Dao_local();
+		$user_id = $dao->getUserId($_SESSION['username']);
+		$results = $dao->getLists($user_id);
+		$check1 = true;
+		$check2 = true;
+		$check3 = true;
+		foreach($results as $row)
+		{
+			if($row['list_order'] == 1)
+			{
+				if($check1)
+				{
+					echo "<div class='list'>
+					<h2 class='editable'>{$row['list_name']}</h2>
+					<Span id='list_delete'>X</Span>";
+					$check1 = false;
+				}
+				echo "<div><input type='checkbox' class='list_item'";
+				if($row['checked'] == 1)
+				{
+					echo " checked";
+				}
+				echo ">";
+				echo "<span class='editable'>{$row['item_name']}</span>";
+				echo "</div>";
+			}
+			if($row['list_order'] == 2)
+			{
+				if($check2)
+				{
+					echo "</div>";
+					echo "<div class='list'>
+					<h2 class='editable'>{$row['list_name']}</h2>
+					<Span id='list_delete'>X</Span>";
+					$check2 = false;
+				}
+				echo "<div><input type='checkbox' class='list_item'";
+				if($row['checked'] == 1)
+				{
+					echo " checked";
+				}
+				echo ">";
+				echo "<span class='editable'>{$row['item_name']}</span>";
+				echo "</div>";
+			}
+			if($row['list_order'] == 3)
+			{
+				if($check3)
+				{
+					echo "</div>";
+					echo "<div class='list'>
+					<h2 class='editable'>{$row['list_name']}</h2>
+					<Span id='list_delete'>X</Span>";
+					$check3 = false;
+				}
+				echo "<div><input type='checkbox' class='list_item'";
+				if($row['checked'] == 1)
+				{
+					echo " checked";
+				}
+				echo ">";
+				echo "<span class='editable'>{$row['item_name']}</span>";
+				echo "</div>";
+			}
+		}
+		echo "</div>";
+		?>
 		
-		<div class="list">
-		<h2>Add JQuery</h2>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>Add more usability</span>
-			</div>
-				<div>
-				<input type="checkbox" class="list_item">
-				<span>Add option to delete folders</span>
-			</div>
-			<div>
-				<input type="checkbox" class="list_item" checked>
-				<span>Create Folder Working</span>
-			</div>
-		</div>
+		<?php
+		require_once 'Dao_local.php';
+		$dao = new Dao_local();
+		$user_id = $dao->getUserId($_SESSION['username']);
+		$displayAddButton = $dao->checkLists($user_id);
+		if($displayAddButton)
+		{
+			echo "<div class='add_list'>+</div>";
+		}
+		?>
 		
-		<div class="list">
-		<h2>To Do</h2>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>Career Fair</span>
-			</div>
-				<div>
-				<input type="checkbox" class="list_item">
-				<span>Use Javascript</span>
-			</div>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>Add Item +</span>
-			</div>
-		</div>
-		
-		<div class="add_list">
-		+
-		</div>
-		
-		<div id="folders">
-<?php require_once 'listFolders.php';?>
-</div>
+	<div id="folders">
+	<?php require_once 'listFolders.php';?>
+	</div>

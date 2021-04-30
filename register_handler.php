@@ -56,6 +56,8 @@ if($_POST['password'] == $_POST['password_verify'])
 	{
 		unset($_SESSION['email']);
 		$_SESSION['success'][] = "Account successfully registered";
+		$userId = $dao->getUserId($_SESSION['username']);
+		$dao->addDefaultList($userId);
 		header("Location: sign_in.php");
 		exit();
 	}

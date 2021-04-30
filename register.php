@@ -1,3 +1,4 @@
+<?php $pageName = "register"?>
 <?php require_once "menu_bar.php"; ?>
 		<title>Organized - Home</title>
 		<?php require_once "list_not_signed_in.php"; ?>
@@ -7,7 +8,7 @@
 			<Span id="register_exit"><a href="index.php">X</a></Span>
 			<hr/>
 			<form method="post" action="register_handler.php">
-				<div>email:<input type="text" name="email"
+				<div><label for="email">email:</label><input id="email" type="text" name="email"
 				<?php
 				if(isset($_SESSION['email']))
 				{
@@ -16,7 +17,7 @@
 				}
 				unset($_SESSION['email']);					
 				?>></div>
-				<div>username:<input type="text" name="username"
+				<div><label for="username">username:</label><input id="username" type="text" name="username"
 				<?php
 				if(isset($_SESSION['username']))
 				{
@@ -25,8 +26,8 @@
 				}
 				unset($_SESSION['username']);	
 				?>></div>
-				<div id="pswd">password:<input type="password" name="password"></div>
-				<div id="verify_password">(verify):<input type="password" name="password_verify"></div>
+				<div id="pswd"><label for="password">password:</label><input id="password" type="password" name="password"></div>
+				<div id="verify_password"><label for="verify">(verify):</label><input id="verify" type="password" name="password_verify"></div>
 			<div id="reg_register_button"><input type="submit" value="Register"></div>
 			</form>
 			

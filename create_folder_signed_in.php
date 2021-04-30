@@ -1,23 +1,16 @@
+<?php $pageName = "create_folder"?>
 <?php require_once "menu_bar_signed_in.php"; ?>
 
 		<title>Organized - Home</title>
-		<div class="list">
-		<h2>List Name</h2>
-			<div>
-				<input type="checkbox" class="list_item">
-				<span>Add Item +</span>
-			</div>
-		</div>
-		<div class="add_list">
-		+
-		</div>
+		
+		<?php require_once "list_signed_in.php"; ?>
 		
 		<div id="create_folder">
 			<Span>Create Folder</Span>
 			<Span id="create_folder_exit"><a href="signed_in.php">X</a></Span>
 			<hr/>
 			<form method="post" action="create_folder_handler.php">
-				<div>Folder Name:<input type="text" id="folder_name" name="folder_name"
+				<div><label for="folder_name">Folder Name:</label><input type="text" id="folder_name" name="folder_name"
 				<?php
 				if(isset($_SESSION['folder_name']))
 				{

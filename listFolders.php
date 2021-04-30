@@ -21,7 +21,9 @@
 				echo "<div class='folder'>
 						<span>
 							<img src={$path}>
+							<a href='folder.php?id={$folder['folder_name']}'>
 							{$saniName}
+							</a>
 						</span>
 						<div>
 							{$saniCategory}

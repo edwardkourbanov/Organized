@@ -24,9 +24,9 @@
 	padding: 20;
 	margin-left: auto;
 	margin-right: auto;
-	position: relative;
-	right: 3%;
-	bottom: -9px;
+	position: fixed;
+	right: 35%;
+	bottom: 26%;
 	z-index: 2;
 	background-color: #7CB7FF;
 }

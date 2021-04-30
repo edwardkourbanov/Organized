@@ -1,16 +1,1314 @@
-1603776366 - DEBUG --> getting a connection 
-1603776366 - DEBUG --> getting a connection 
-1603776969 - DEBUG --> getting a connection 
-1603776970 - DEBUG --> attempting to login user [edwardkourbanov] with password [gooseguy] 
-1603776970 - DEBUG --> login success 
-1603776970 - DEBUG --> getting a connection 
-1603776970 - DEBUG --> attempting to login user [edwardkourbanov] with password [gooseguy] 
-1603776970 - DEBUG --> login success 
-1603776970 - DEBUG --> getting a connection 
-1603776970 - DEBUG --> getUserId got userID [1] 
-1603776970 - DEBUG --> getting a connection 
-1603777001 - DEBUG --> getting a connection 
-1603777001 - DEBUG --> getting a connection 
-1603777001 - DEBUG --> getting a connection 
-1603777002 - DEBUG --> attempting to register user [gooseguy] with password [gooseguy] and email [gooseman@gmail.com] 
-1603777002 - DEBUG --> register success 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> Attempting to add list. 
+1607550486 - DEBUG --> Attempting to add list with list order value of [3] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getting a connection 
+1607550486 - DEBUG --> getUserId got userID [21] 
+1607550486 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getUserId got userID [21] 
+1607550731 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getUserId got userID [21] 
+1607550731 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getting a connection 
+1607550731 - DEBUG --> getUserId got userID [21] 
+1607550731 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getUserId got userID [21] 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> Attempting to add list. 
+1607550735 - DEBUG --> Attempting to add list with list order value of [3] 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getUserId got userID [21] 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getUserId got userID [21] 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getting a connection 
+1607550735 - DEBUG --> getUserId got userID [21] 
+1607550735 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getUserId got userID [21] 
+1607550823 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getUserId got userID [21] 
+1607550823 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getting a connection 
+1607550823 - DEBUG --> getUserId got userID [21] 
+1607550823 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getUserId got userID [21] 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> Attempting to add list. 
+1607550830 - DEBUG --> Attempting to add list with list order value of [1] 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getUserId got userID [21] 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getUserId got userID [21] 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getting a connection 
+1607550830 - DEBUG --> getUserId got userID [21] 
+1607550830 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getUserId got userID [21] 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> Attempting to add list. 
+1607550832 - DEBUG --> Attempting to add list with list order value of [2] 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getUserId got userID [21] 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getUserId got userID [21] 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getting a connection 
+1607550832 - DEBUG --> getUserId got userID [21] 
+1607550832 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getUserId got userID [21] 
+1607550847 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getUserId got userID [21] 
+1607550847 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getting a connection 
+1607550847 - DEBUG --> getUserId got userID [21] 
+1607550847 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getUserId got userID [21] 
+1607550853 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getUserId got userID [21] 
+1607550853 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getting a connection 
+1607550853 - DEBUG --> getUserId got userID [21] 
+1607550853 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getUserId got userID [21] 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> Attempting to add list. 
+1607550855 - DEBUG --> Attempting to add list with list order value of [3] 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getUserId got userID [21] 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getUserId got userID [21] 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getting a connection 
+1607550855 - DEBUG --> getUserId got userID [21] 
+1607550855 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getUserId got userID [21] 
+1607550948 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getUserId got userID [21] 
+1607550948 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getting a connection 
+1607550948 - DEBUG --> getUserId got userID [21] 
+1607550948 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getUserId got userID [21] 
+1607550954 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getUserId got userID [21] 
+1607550954 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getting a connection 
+1607550954 - DEBUG --> getUserId got userID [21] 
+1607550954 - DEBUG --> getting a connection 
+1607551111 - DEBUG --> getting a connection 
+1607551111 - DEBUG --> getUserId got userID [] 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551117 - DEBUG --> login success 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551117 - DEBUG --> login success 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> getUserId got userID [21] 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> getUserId got userID [21] 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> getting a connection 
+1607551117 - DEBUG --> getUserId got userID [21] 
+1607551117 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getUserId got userID [21] 
+1607551207 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getUserId got userID [21] 
+1607551207 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getting a connection 
+1607551207 - DEBUG --> getUserId got userID [21] 
+1607551207 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getUserId got userID [21] 
+1607551215 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getUserId got userID [21] 
+1607551215 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getting a connection 
+1607551215 - DEBUG --> getUserId got userID [21] 
+1607551215 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getUserId got userID [21] 
+1607551223 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getUserId got userID [21] 
+1607551223 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getting a connection 
+1607551223 - DEBUG --> getUserId got userID [21] 
+1607551223 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getUserId got userID [21] 
+1607551230 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getUserId got userID [21] 
+1607551230 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getting a connection 
+1607551230 - DEBUG --> getUserId got userID [21] 
+1607551230 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getUserId got userID [21] 
+1607551243 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getUserId got userID [21] 
+1607551243 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getting a connection 
+1607551243 - DEBUG --> getUserId got userID [21] 
+1607551243 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getUserId got userID [21] 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> Attempting to add list. 
+1607551249 - DEBUG --> Attempting to add list with list order value of [1] 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getUserId got userID [21] 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getUserId got userID [21] 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getting a connection 
+1607551249 - DEBUG --> getUserId got userID [21] 
+1607551249 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getUserId got userID [21] 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> Attempting to add list. 
+1607551250 - DEBUG --> Attempting to add list with list order value of [2] 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getUserId got userID [21] 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getUserId got userID [21] 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getting a connection 
+1607551250 - DEBUG --> getUserId got userID [21] 
+1607551250 - DEBUG --> getting a connection 
+1607551257 - DEBUG --> getting a connection 
+1607551257 - DEBUG --> getUserId got userID [] 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551263 - DEBUG --> login success 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551263 - DEBUG --> login success 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> getUserId got userID [21] 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> getUserId got userID [21] 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> getting a connection 
+1607551263 - DEBUG --> getUserId got userID [21] 
+1607551263 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getUserId got userID [21] 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> Attempting to add list. 
+1607551272 - DEBUG --> Attempting to add list with list order value of [3] 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getUserId got userID [21] 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getUserId got userID [21] 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getting a connection 
+1607551272 - DEBUG --> getUserId got userID [21] 
+1607551272 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getUserId got userID [21] 
+1607551398 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getUserId got userID [21] 
+1607551398 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getting a connection 
+1607551398 - DEBUG --> getUserId got userID [21] 
+1607551398 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getUserId got userID [21] 
+1607551407 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getUserId got userID [21] 
+1607551407 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getting a connection 
+1607551407 - DEBUG --> getUserId got userID [21] 
+1607551407 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getUserId got userID [21] 
+1607551413 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getUserId got userID [21] 
+1607551413 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getting a connection 
+1607551413 - DEBUG --> getUserId got userID [21] 
+1607551413 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getUserId got userID [21] 
+1607551419 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getUserId got userID [21] 
+1607551419 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getting a connection 
+1607551419 - DEBUG --> getUserId got userID [21] 
+1607551419 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getUserId got userID [21] 
+1607551424 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getUserId got userID [21] 
+1607551424 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getting a connection 
+1607551424 - DEBUG --> getUserId got userID [21] 
+1607551424 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getUserId got userID [21] 
+1607551433 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getUserId got userID [21] 
+1607551433 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getting a connection 
+1607551433 - DEBUG --> getUserId got userID [21] 
+1607551433 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getUserId got userID [21] 
+1607551441 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getUserId got userID [21] 
+1607551441 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getting a connection 
+1607551441 - DEBUG --> getUserId got userID [21] 
+1607551441 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getUserId got userID [21] 
+1607551449 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getUserId got userID [21] 
+1607551449 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getting a connection 
+1607551449 - DEBUG --> getUserId got userID [21] 
+1607551449 - DEBUG --> getting a connection 
+1607551518 - DEBUG --> getting a connection 
+1607551518 - DEBUG --> getting a connection 
+1607551518 - DEBUG --> getting a connection 
+1607551518 - DEBUG --> attempting to register user [edwardkourbanov2] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] and email [monkeyguy@man.com] 
+1607551518 - DEBUG --> register success 
+1607551518 - DEBUG --> getting a connection 
+1607551518 - DEBUG --> getUserId got userID [22] 
+1607551518 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> attempting to login user [edwardkourbanov2] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551522 - DEBUG --> login success 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> attempting to login user [edwardkourbanov2] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607551522 - DEBUG --> login success 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getUserId got userID [22] 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getUserId got userID [22] 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getting a connection 
+1607551522 - DEBUG --> getUserId got userID [22] 
+1607551522 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getUserId got userID [22] 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> Attempting to add list. 
+1607551527 - DEBUG --> Attempting to add list with list order value of [2] 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getUserId got userID [22] 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getUserId got userID [22] 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getting a connection 
+1607551527 - DEBUG --> getUserId got userID [22] 
+1607551527 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getUserId got userID [22] 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> Attempting to add list. 
+1607551528 - DEBUG --> Attempting to add list with list order value of [3] 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getUserId got userID [22] 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getUserId got userID [22] 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getting a connection 
+1607551528 - DEBUG --> getUserId got userID [22] 
+1607551528 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getUserId got userID [22] 
+1607551564 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getUserId got userID [22] 
+1607551564 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getting a connection 
+1607551564 - DEBUG --> getUserId got userID [22] 
+1607551564 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getUserId got userID [22] 
+1607551568 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getUserId got userID [22] 
+1607551568 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getting a connection 
+1607551568 - DEBUG --> getUserId got userID [22] 
+1607551568 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getUserId got userID [22] 
+1607551570 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getUserId got userID [22] 
+1607551570 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getting a connection 
+1607551570 - DEBUG --> getUserId got userID [22] 
+1607551570 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getUserId got userID [22] 
+1607551573 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getUserId got userID [22] 
+1607551573 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getting a connection 
+1607551573 - DEBUG --> getUserId got userID [22] 
+1607551573 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getUserId got userID [22] 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> checkFolder returned [0] for user [] 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> createFolder for userID [22], category [a], icon [default], folder name [asddf] 
+1607551577 - DEBUG --> createFolder SUCCESS 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getUserId got userID [22] 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getUserId got userID [22] 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getting a connection 
+1607551577 - DEBUG --> getUserId got userID [22] 
+1607551577 - DEBUG --> getting a connection 
+1607555207 - DEBUG --> getting a connection 
+1607555207 - DEBUG --> getUserId got userID [] 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555214 - DEBUG --> login success 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555214 - DEBUG --> login success 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> getUserId got userID [21] 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> getUserId got userID [21] 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> getting a connection 
+1607555214 - DEBUG --> getUserId got userID [21] 
+1607555214 - DEBUG --> getting a connection 
+1607555352 - DEBUG --> getting a connection 
+1607555352 - DEBUG --> getUserId got userID [] 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555357 - DEBUG --> login success 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555357 - DEBUG --> login success 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> getUserId got userID [21] 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> getUserId got userID [21] 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> getting a connection 
+1607555357 - DEBUG --> getUserId got userID [21] 
+1607555357 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555718 - DEBUG --> login success 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607555718 - DEBUG --> login success 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getUserId got userID [21] 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getUserId got userID [21] 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getting a connection 
+1607555718 - DEBUG --> getUserId got userID [21] 
+1607555718 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607556607 - DEBUG --> login success 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607556607 - DEBUG --> login success 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getUserId got userID [21] 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getUserId got userID [21] 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getting a connection 
+1607556607 - DEBUG --> getUserId got userID [21] 
+1607556607 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607557193 - DEBUG --> login success 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607557193 - DEBUG --> login success 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getUserId got userID [21] 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getUserId got userID [21] 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getting a connection 
+1607557193 - DEBUG --> getUserId got userID [21] 
+1607557193 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getUserId got userID [21] 
+1607557195 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getUserId got userID [21] 
+1607557195 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getting a connection 
+1607557195 - DEBUG --> getUserId got userID [21] 
+1607557195 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getUserId got userID [21] 
+1607557225 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getUserId got userID [21] 
+1607557225 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getting a connection 
+1607557225 - DEBUG --> getUserId got userID [21] 
+1607557225 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getUserId got userID [21] 
+1607557243 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getUserId got userID [21] 
+1607557243 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getting a connection 
+1607557243 - DEBUG --> getUserId got userID [21] 
+1607557243 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getUserId got userID [21] 
+1607557251 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getUserId got userID [21] 
+1607557251 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getting a connection 
+1607557251 - DEBUG --> getUserId got userID [21] 
+1607557251 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getUserId got userID [21] 
+1607557947 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getUserId got userID [21] 
+1607557947 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getting a connection 
+1607557947 - DEBUG --> getUserId got userID [21] 
+1607557947 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getUserId got userID [21] 
+1607557953 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getUserId got userID [21] 
+1607557953 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getting a connection 
+1607557953 - DEBUG --> getUserId got userID [21] 
+1607557953 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getUserId got userID [21] 
+1607557963 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getUserId got userID [21] 
+1607557963 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getting a connection 
+1607557963 - DEBUG --> getUserId got userID [21] 
+1607557963 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getUserId got userID [21] 
+1607557980 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getUserId got userID [21] 
+1607557980 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getting a connection 
+1607557980 - DEBUG --> getUserId got userID [21] 
+1607557980 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getUserId got userID [21] 
+1607559438 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getUserId got userID [21] 
+1607559438 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getting a connection 
+1607559438 - DEBUG --> getUserId got userID [21] 
+1607559438 - DEBUG --> getting a connection 
+1607559442 - DEBUG --> getting a connection 
+1607559442 - DEBUG --> getUserId got userID [21] 
+1607559442 - DEBUG --> getting a connection 
+1607559442 - DEBUG --> getting a connection 
+1607559442 - DEBUG --> getUserId got userID [21] 
+1607559462 - DEBUG --> getting a connection 
+1607559462 - DEBUG --> getUserId got userID [21] 
+1607559462 - DEBUG --> getting a connection 
+1607559462 - DEBUG --> getting a connection 
+1607559462 - DEBUG --> getUserId got userID [21] 
+1607559462 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getUserId got userID [21] 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getUserId got userID [21] 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getUserId got userID [21] 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getting a connection 
+1607559465 - DEBUG --> getUserId got userID [21] 
+1607559465 - DEBUG --> getting a connection 
+1607559474 - DEBUG --> getting a connection 
+1607559474 - DEBUG --> getUserId got userID [] 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607559483 - DEBUG --> login success 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607559483 - DEBUG --> login success 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> getUserId got userID [21] 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> getUserId got userID [21] 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> getting a connection 
+1607559483 - DEBUG --> getUserId got userID [21] 
+1607559483 - DEBUG --> getting a connection 
+1607559485 - DEBUG --> getting a connection 
+1607559485 - DEBUG --> getUserId got userID [21] 
+1607559485 - DEBUG --> getting a connection 
+1607559485 - DEBUG --> getting a connection 
+1607559485 - DEBUG --> getUserId got userID [21] 
+1607559485 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getUserId got userID [21] 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getUserId got userID [21] 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getUserId got userID [21] 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getting a connection 
+1607559487 - DEBUG --> getUserId got userID [21] 
+1607559487 - DEBUG --> getting a connection 
+1607559490 - DEBUG --> getting a connection 
+1607559490 - DEBUG --> getUserId got userID [21] 
+1607559490 - DEBUG --> getting a connection 
+1607559490 - DEBUG --> getting a connection 
+1607559490 - DEBUG --> getUserId got userID [21] 
+1607559490 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getUserId got userID [21] 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getUserId got userID [21] 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getUserId got userID [21] 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getting a connection 
+1607559492 - DEBUG --> getUserId got userID [21] 
+1607559492 - DEBUG --> getting a connection 
+1607559494 - DEBUG --> getting a connection 
+1607559494 - DEBUG --> getUserId got userID [21] 
+1607559494 - DEBUG --> getting a connection 
+1607559494 - DEBUG --> getting a connection 
+1607559494 - DEBUG --> getUserId got userID [21] 
+1607559494 - DEBUG --> getting a connection 
+1607559620 - DEBUG --> getting a connection 
+1607559620 - DEBUG --> getUserId got userID [21] 
+1607559620 - DEBUG --> getting a connection 
+1607559620 - DEBUG --> getting a connection 
+1607559620 - DEBUG --> getUserId got userID [21] 
+1607559620 - DEBUG --> getting a connection 
+1607559635 - DEBUG --> getting a connection 
+1607559635 - DEBUG --> getUserId got userID [21] 
+1607559635 - DEBUG --> getting a connection 
+1607559635 - DEBUG --> getting a connection 
+1607559635 - DEBUG --> getUserId got userID [21] 
+1607559635 - DEBUG --> getting a connection 
+1607559796 - DEBUG --> getting a connection 
+1607559796 - DEBUG --> getUserId got userID [21] 
+1607559796 - DEBUG --> getting a connection 
+1607559796 - DEBUG --> getting a connection 
+1607559796 - DEBUG --> getUserId got userID [21] 
+1607559796 - DEBUG --> getting a connection 
+1607559801 - DEBUG --> getting a connection 
+1607559801 - DEBUG --> getUserId got userID [21] 
+1607559801 - DEBUG --> getting a connection 
+1607559801 - DEBUG --> getting a connection 
+1607559801 - DEBUG --> getUserId got userID [21] 
+1607559801 - DEBUG --> getting a connection 
+1607559817 - DEBUG --> getting a connection 
+1607559817 - DEBUG --> getUserId got userID [21] 
+1607559817 - DEBUG --> getting a connection 
+1607559817 - DEBUG --> getting a connection 
+1607559817 - DEBUG --> getUserId got userID [21] 
+1607559817 - DEBUG --> getting a connection 
+1607559840 - DEBUG --> getting a connection 
+1607559840 - DEBUG --> getUserId got userID [21] 
+1607559840 - DEBUG --> getting a connection 
+1607559840 - DEBUG --> getting a connection 
+1607559840 - DEBUG --> getUserId got userID [21] 
+1607559840 - DEBUG --> getting a connection 
+1607560272 - DEBUG --> getting a connection 
+1607560272 - DEBUG --> getUserId got userID [21] 
+1607560272 - DEBUG --> getting a connection 
+1607560272 - DEBUG --> getting a connection 
+1607560272 - DEBUG --> getUserId got userID [21] 
+1607560272 - DEBUG --> getting a connection 
+1607560273 - DEBUG --> getting a connection 
+1607560273 - DEBUG --> getUserId got userID [21] 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> getUserId got userID [21] 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> Attempting to add list. 
+1607560325 - DEBUG --> Attempting to add list with list order value of [1] 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> getUserId got userID [] 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> getting a connection 
+1607560325 - DEBUG --> getUserId got userID [] 
+1607560325 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getUserId got userID [21] 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getUserId got userID [21] 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getUserId got userID [21] 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getUserId got userID [21] 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getting a connection 
+1607560419 - DEBUG --> getUserId got userID [21] 
+1607560419 - DEBUG --> getting a connection 
+1607560421 - DEBUG --> getting a connection 
+1607560421 - DEBUG --> getUserId got userID [21] 
+1607560421 - DEBUG --> getting a connection 
+1607560421 - DEBUG --> getting a connection 
+1607560421 - DEBUG --> getUserId got userID [21] 
+1607560421 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getUserId got userID [21] 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> Attempting to add list. 
+1607560422 - DEBUG --> Attempting to add list with list order value of [1] 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getUserId got userID [] 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getting a connection 
+1607560422 - DEBUG --> getUserId got userID [] 
+1607560422 - DEBUG --> getting a connection 
+1607560424 - DEBUG --> getting a connection 
+1607560424 - DEBUG --> getUserId got userID [21] 
+1607560424 - DEBUG --> getting a connection 
+1607560424 - DEBUG --> getting a connection 
+1607560424 - DEBUG --> getUserId got userID [21] 
+1607560424 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getUserId got userID [21] 
+1607560425 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getUserId got userID [21] 
+1607560425 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getting a connection 
+1607560425 - DEBUG --> getUserId got userID [21] 
+1607560425 - DEBUG --> getting a connection 
+1607560449 - DEBUG --> getting a connection 
+1607560449 - DEBUG --> getUserId got userID [21] 
+1607560449 - DEBUG --> getting a connection 
+1607560449 - DEBUG --> getting a connection 
+1607560449 - DEBUG --> getUserId got userID [21] 
+1607560449 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getUserId got userID [21] 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> Attempting to add list. 
+1607560462 - DEBUG --> Attempting to add list with list order value of [1] 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getUserId got userID [] 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getting a connection 
+1607560462 - DEBUG --> getUserId got userID [] 
+1607560462 - DEBUG --> getting a connection 
+1607560525 - DEBUG --> getting a connection 
+1607560525 - DEBUG --> getUserId got userID [21] 
+1607560525 - DEBUG --> getting a connection 
+1607560525 - DEBUG --> getting a connection 
+1607560525 - DEBUG --> getUserId got userID [21] 
+1607560525 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getUserId got userID [21] 
+1607560554 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getUserId got userID [21] 
+1607560554 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getting a connection 
+1607560554 - DEBUG --> getUserId got userID [21] 
+1607560554 - DEBUG --> getting a connection 
+1607560556 - DEBUG --> getting a connection 
+1607560556 - DEBUG --> getUserId got userID [21] 
+1607560556 - DEBUG --> getting a connection 
+1607560556 - DEBUG --> getting a connection 
+1607560556 - DEBUG --> getUserId got userID [21] 
+1607560556 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getUserId got userID [21] 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> Attempting to add list. 
+1607560558 - DEBUG --> Attempting to add list with list order value of [1] 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getUserId got userID [] 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getting a connection 
+1607560558 - DEBUG --> getUserId got userID [] 
+1607560558 - DEBUG --> getting a connection 
+1607560572 - DEBUG --> getting a connection 
+1607560572 - DEBUG --> getUserId got userID [21] 
+1607560572 - DEBUG --> getting a connection 
+1607560572 - DEBUG --> getting a connection 
+1607560572 - DEBUG --> getUserId got userID [21] 
+1607560572 - DEBUG --> getting a connection 
+1607560915 - DEBUG --> getting a connection 
+1607560915 - DEBUG --> getUserId got userID [21] 
+1607560915 - DEBUG --> getting a connection 
+1607560915 - DEBUG --> getting a connection 
+1607560915 - DEBUG --> getUserId got userID [21] 
+1607560915 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getUserId got userID [21] 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> Attempting to add list. 
+1607560935 - DEBUG --> Attempting to add list with list order value of [1] 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getUserId got userID [] 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getting a connection 
+1607560935 - DEBUG --> getUserId got userID [] 
+1607560935 - DEBUG --> getting a connection 
+1607560937 - DEBUG --> getting a connection 
+1607560937 - DEBUG --> getUserId got userID [21] 
+1607560937 - DEBUG --> getting a connection 
+1607560937 - DEBUG --> getting a connection 
+1607560937 - DEBUG --> getUserId got userID [21] 
+1607560937 - DEBUG --> getting a connection 
+1607560942 - DEBUG --> getting a connection 
+1607560942 - DEBUG --> getUserId got userID [21] 
+1607560942 - DEBUG --> getting a connection 
+1607560942 - DEBUG --> getting a connection 
+1607560942 - DEBUG --> getUserId got userID [21] 
+1607560942 - DEBUG --> getting a connection 
+1607561036 - DEBUG --> getting a connection 
+1607561036 - DEBUG --> getUserId got userID [21] 
+1607561036 - DEBUG --> getting a connection 
+1607561036 - DEBUG --> getting a connection 
+1607561036 - DEBUG --> getUserId got userID [21] 
+1607561036 - DEBUG --> getting a connection 
+1607561037 - DEBUG --> getting a connection 
+1607561037 - DEBUG --> getUserId got userID [21] 
+1607561037 - DEBUG --> getting a connection 
+1607561037 - DEBUG --> getting a connection 
+1607561037 - DEBUG --> getUserId got userID [21] 
+1607561037 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getUserId got userID [21] 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> Attempting to add list. 
+1607561043 - DEBUG --> Attempting to add list with list order value of [1] 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getUserId got userID [] 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getting a connection 
+1607561043 - DEBUG --> getUserId got userID [] 
+1607561043 - DEBUG --> getting a connection 
+1607561044 - DEBUG --> getting a connection 
+1607561044 - DEBUG --> getUserId got userID [21] 
+1607561044 - DEBUG --> getting a connection 
+1607561044 - DEBUG --> getting a connection 
+1607561044 - DEBUG --> getUserId got userID [21] 
+1607561044 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getUserId got userID [21] 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getUserId got userID [21] 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getUserId got userID [21] 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getting a connection 
+1607561045 - DEBUG --> getUserId got userID [21] 
+1607561045 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getUserId got userID [21] 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> Attempting to add list. 
+1607561046 - DEBUG --> Attempting to add list with list order value of [1] 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getUserId got userID [] 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getting a connection 
+1607561046 - DEBUG --> getUserId got userID [] 
+1607561046 - DEBUG --> getting a connection 
+1607561073 - DEBUG --> getting a connection 
+1607561073 - DEBUG --> getUserId got userID [21] 
+1607561073 - DEBUG --> getting a connection 
+1607561073 - DEBUG --> getting a connection 
+1607561073 - DEBUG --> getUserId got userID [21] 
+1607561073 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getUserId got userID [21] 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getUserId got userID [21] 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getUserId got userID [21] 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> Attempting to add list. 
+1607561074 - DEBUG --> Attempting to add list with list order value of [1] 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getUserId got userID [] 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getting a connection 
+1607561074 - DEBUG --> getUserId got userID [] 
+1607561074 - DEBUG --> getting a connection 
+1607561125 - DEBUG --> getting a connection 
+1607561125 - DEBUG --> getUserId got userID [21] 
+1607561125 - DEBUG --> getting a connection 
+1607561125 - DEBUG --> getting a connection 
+1607561125 - DEBUG --> getUserId got userID [21] 
+1607561125 - DEBUG --> getting a connection 
+1607561126 - DEBUG --> getting a connection 
+1607561126 - DEBUG --> getUserId got userID [21] 
+1607561126 - DEBUG --> getting a connection 
+1607561126 - DEBUG --> getting a connection 
+1607561126 - DEBUG --> getUserId got userID [21] 
+1607561126 - DEBUG --> getting a connection 
+1607561127 - DEBUG --> getting a connection 
+1607561127 - DEBUG --> getUserId got userID [21] 
+1607561127 - DEBUG --> getting a connection 
+1607561127 - DEBUG --> getting a connection 
+1607561127 - DEBUG --> getUserId got userID [21] 
+1607561127 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getUserId got userID [21] 
+1607561146 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getUserId got userID [21] 
+1607561146 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getting a connection 
+1607561146 - DEBUG --> getUserId got userID [21] 
+1607561146 - DEBUG --> getting a connection 
+1607561148 - DEBUG --> getting a connection 
+1607561148 - DEBUG --> getUserId got userID [21] 
+1607561148 - DEBUG --> getting a connection 
+1607561148 - DEBUG --> getting a connection 
+1607561148 - DEBUG --> getUserId got userID [21] 
+1607561148 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getUserId got userID [21] 
+1607561150 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getUserId got userID [21] 
+1607561150 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getting a connection 
+1607561150 - DEBUG --> getUserId got userID [21] 
+1607561150 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getting a connection 
+1607561467 - DEBUG --> getUserId got userID [21] 
+1607561467 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getUserId got userID [21] 
+1607561468 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getUserId got userID [21] 
+1607561468 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getting a connection 
+1607561468 - DEBUG --> getUserId got userID [21] 
+1607561468 - DEBUG --> getting a connection 
+1607561470 - DEBUG --> getting a connection 
+1607561470 - DEBUG --> getUserId got userID [] 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607561485 - DEBUG --> login success 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607561485 - DEBUG --> login success 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> getUserId got userID [21] 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> getUserId got userID [21] 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> getting a connection 
+1607561485 - DEBUG --> getUserId got userID [21] 
+1607561485 - DEBUG --> getting a connection 
+1607561488 - DEBUG --> getting a connection 
+1607561488 - DEBUG --> getUserId got userID [21] 
+1607561488 - DEBUG --> getting a connection 
+1607561488 - DEBUG --> getting a connection 
+1607561488 - DEBUG --> getUserId got userID [21] 
+1607561488 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607561767 - DEBUG --> login success 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607561767 - DEBUG --> login success 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getUserId got userID [21] 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getUserId got userID [21] 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getting a connection 
+1607561767 - DEBUG --> getUserId got userID [21] 
+1607561767 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getUserId got userID [21] 
+1607561877 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getUserId got userID [21] 
+1607561877 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getting a connection 
+1607561877 - DEBUG --> getUserId got userID [21] 
+1607561877 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getUserId got userID [21] 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> Attempting to add list. 
+1607561880 - DEBUG --> Attempting to add list with list order value of [1] 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getUserId got userID [21] 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getUserId got userID [21] 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getting a connection 
+1607561880 - DEBUG --> getUserId got userID [21] 
+1607561880 - DEBUG --> getting a connection 
+1607562997 - DEBUG --> getting a connection 
+1607562997 - DEBUG --> getUserId got userID [] 
+1607563239 - DEBUG --> getting a connection 
+1607563239 - DEBUG --> getUserId got userID [] 
+1607563263 - DEBUG --> getting a connection 
+1607563263 - DEBUG --> getting a connection 
+1607563271 - DEBUG --> getting a connection 
+1607563271 - DEBUG --> getting a connection 
+1607563281 - DEBUG --> getting a connection 
+1607563281 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607563292 - DEBUG --> login success 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> attempting to login user [edwardkourbanov] with password [69cdfc2d3e65f6f4aa7da2837b66ca45064fe3a551a3f6ad16ccf18df6ed6079] 
+1607563292 - DEBUG --> login success 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getUserId got userID [21] 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getUserId got userID [21] 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getting a connection 
+1607563292 - DEBUG --> getUserId got userID [21] 
+1607563292 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getUserId got userID [21] 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> Attempting to add list. 
+1607563334 - DEBUG --> Attempting to add list with list order value of [2] 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getUserId got userID [21] 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getUserId got userID [21] 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getting a connection 
+1607563334 - DEBUG --> getUserId got userID [21] 
+1607563334 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getUserId got userID [21] 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> Attempting to add list. 
+1607563341 - DEBUG --> Attempting to add list with list order value of [3] 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getUserId got userID [21] 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getUserId got userID [21] 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getting a connection 
+1607563341 - DEBUG --> getUserId got userID [21] 
+1607563341 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getUserId got userID [21] 
+1607563391 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getUserId got userID [21] 
+1607563391 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getting a connection 
+1607563391 - DEBUG --> getUserId got userID [21] 
+1607563391 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getUserId got userID [21] 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> checkFolder returned [2] for user [] 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> createFolder for userID [21], category [School], icon [extended], folder name [Folder 3] 
+1607563403 - DEBUG --> createFolder SUCCESS 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getUserId got userID [21] 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getUserId got userID [21] 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getting a connection 
+1607563403 - DEBUG --> getUserId got userID [21] 
+1607563403 - DEBUG --> getting a connection 
+1607563406 - DEBUG --> getting a connection 
+1607563406 - DEBUG --> getUserId got userID [21] 
+1607563406 - DEBUG --> getting a connection 
+1607563406 - DEBUG --> getting a connection 
+1607563406 - DEBUG --> getUserId got userID [21] 
+1607563406 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getUserId got userID [21] 
+1607563425 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getUserId got userID [21] 
+1607563425 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getting a connection 
+1607563425 - DEBUG --> getUserId got userID [21] 
+1607563425 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getting a connection 
+1607563429 - DEBUG --> getUserId got userID [21] 
+1607563429 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getting a connection 
+1607563430 - DEBUG --> getUserId got userID [21] 
+1607563430 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getting a connection 
+1607563431 - DEBUG --> getUserId got userID [21] 
+1607563431 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getUserId got userID [21] 
+1607563433 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getUserId got userID [21] 
+1607563433 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getting a connection 
+1607563433 - DEBUG --> getUserId got userID [21] 
+1607563433 - DEBUG --> getting a connection 
+1607563718 - DEBUG --> getting a connection 
+1607563718 - DEBUG --> getUserId got userID [21] 
+1607563718 - DEBUG --> getting a connection 
+1607563718 - DEBUG --> getting a connection 
+1607563718 - DEBUG --> getUserId got userID [21] 
+1607563718 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getUserId got userID [21] 
+1607563720 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getUserId got userID [21] 
+1607563720 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getting a connection 
+1607563720 - DEBUG --> getUserId got userID [21] 
+1607563720 - DEBUG --> getting a connection 
+1607563722 - DEBUG --> getting a connection 
+1607563722 - DEBUG --> getUserId got userID [21] 
+1607563722 - DEBUG --> getting a connection 
+1607563722 - DEBUG --> getting a connection 
+1607563722 - DEBUG --> getUserId got userID [21] 
+1607563722 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getUserId got userID [21] 
+1607563726 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getUserId got userID [21] 
+1607563726 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getting a connection 
+1607563726 - DEBUG --> getUserId got userID [21] 
+1607563726 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getUserId got userID [21] 
+1607563727 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getUserId got userID [21] 
+1607563727 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getting a connection 
+1607563727 - DEBUG --> getUserId got userID [21] 
+1607563727 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getting a connection 
+1607563728 - DEBUG --> getUserId got userID [21] 
+1607563728 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getUserId got userID [21] 
+1607563758 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getUserId got userID [21] 
+1607563758 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getting a connection 
+1607563758 - DEBUG --> getUserId got userID [21] 
+1607563758 - DEBUG --> getting a connection 

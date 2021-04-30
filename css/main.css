@@ -31,6 +31,15 @@ footer ol li{
 	font-family: "Arial";
 }
 
+.menubar .menubar_select{
+	border: 3px solid gray;
+	cursor: pointer;
+}
+
+.menubar_current{
+	background-color: #B3B7B0;
+}
+
 #main_background div ol li img#logo{
 	height: 50;
 	vertical-align: top;
@@ -48,11 +57,22 @@ li h1 {
 
 h2{
 	font-size: 30;
+}
+
+.list > input{
+	font-size: 30;
 	margin: 15 15;
+	width: 300;
+}
+
+.list div > input{
+	font-size: 26;
 }
 
 div.list h2{
 	font-size: 30;
+	margin: 15 15;
+	display: inline;
 }
 
 footer {
@@ -82,23 +102,40 @@ hr{
 	margin-bottom: 20;
 	margin-right: 20;
 	min-width: 22%;
-	height: 81%;
+	max-width: 22%;
+	height: 80%;
 	font-size: 28;
 	font-family: "Arial";
 	border: 2px solid black;
 	background-color: #7CB7FF;
-	padding: 10;
+	padding: 15 5;
 }
 
 .list_item {
 	font-size: 22;
-	margin-left: 20;
+	margin-left: 0;
 	height: 25px;
 	width: 25px;
 	vertical-align: top;
 }
 
-.add_list {
+.list div {
+	margin-top: 8;
+	margin-left: 10;
+	margin-right: 10;
+}
+
+.list div > span {
+	word-wrap: break-word;
+}
+
+.list > input {
+	margin-right: -141.5;
+	margin-top: -10;
+	margin-bottom: 0;
+}
+
+.add_list, .add_list_folder {
 	float: left;
 	padding: 20;
 	margin: 10 auto;
@@ -111,6 +148,11 @@ hr{
 	font-weight: bold;
 	border: 2px solid black;
 	background-color: #7CB7FF;
+}
+
+.add_list.add_list_select{
+	border: 3px solid black;
+	cursor: pointer;
 }
 
 #main_background div ol li#menubar_signed_in{
@@ -161,4 +203,24 @@ a:visited{
 
 .menu_hidden{
 	visibility: hidden;
+}
+
+.list #list_delete {
+	position: relative;
+	top: -8px;
+	left: 43.5%;
+	border: 2px solid black;
+	font-family: "Arial";
+	font-size: 32;
+	font-weight: bold;
+	padding: 7 12;
+}
+
+.list_spacing {
+	float: left;
+	margin: 10 0;
+	margin-bottom: 20;
+	margin-right: 0;
+	margin-left: 2;
+	height: 80%;
 }

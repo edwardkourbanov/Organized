@@ -1,3 +1,4 @@
+<?php $pageName = "signed_in"?>
 <?php require_once "menu_bar_signed_in.php";?>
 
 

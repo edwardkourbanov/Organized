@@ -1,3 +1,4 @@
+<?php $pageName = "calendar"?>
 <?php require_once "menu_bar_signed_in.php";?>
 
 		<div class="calendar_row">

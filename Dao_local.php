@@ -44,6 +44,7 @@ class Dao_local {
 	
 	public function userLogin($username, $password){
 		$conn = $this->getConnection();
+		$password = hash("sha256", "password" . "fKd93Vmz!k*dAv5029Vkf9$3Aa");
 		$this->logger->LogDebug("attempting to login user [{$username}] with password [{$password}]");
 		$saveQuery = "SELECT password FROM user WHERE username LIKE :username AND password LIKE :password;";
 		$q = $conn->prepare($saveQuery);
@@ -65,6 +66,7 @@ class Dao_local {
 	
 	public function register($email, $username, $password){
 		$conn = $this->getConnection();
+		$password = hash("sha256", "password" . "fKd93Vmz!k*dAv5029Vkf9$3Aa");
 		$this->logger->LogDebug("attempting to register user [{$username}] with password [{$password}] and email [{$email}]");
 		$saveQuery = "INSERT INTO user (email, username, password) VALUES (:email, :username, :password);";
 		$q = $conn->prepare($saveQuery);
@@ -83,6 +85,15 @@ class Dao_local {
 			$this->logger->LogDebug("register failure");
 			return false;
 		}
+	}
+	
+	public function addDefaultList($userId){
+		$conn = $this->getConnection();
+		$saveQuery = "INSERT INTO list (user_id, list_name, list_order, item_name, item_order, folder, checked)
+		VALUES (:userId, 'List Name', 1, 'Add Item +', 1, NULL, 0);";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":userId", $userId);
+		$q->execute();
 	}
 	
 	public function checkEmail($email){
@@ -172,17 +183,17 @@ class Dao_local {
 		return $q->fetchAll();
 	}	
 
-	/* Checks to see if user has <= 3 lists on the main page
+	/* Checks to see if user has < 3 lists on the main page
 	 * Returns true or false; true if good to insert, false if not
+	 * FOR THE FIRST LISTS WHERE folder = NULL
 	*/
 	public function checkLists($user_id){
 		$conn = $this->getConnection();
-		$saveQuery = "SELECT user_id FROM list WHERE user_id = :user_id AND folder = NULL;";
+		$saveQuery = "SELECT max(list_order) FROM list WHERE user_id = :user_id AND folder is NULL;";
 		$q = $conn->prepare($saveQuery);
 		$q->bindParam(":user_id", $user_id);
 		$q->execute();
 		$result = $q->fetchAll();
-		$this->logger->LogDebug("checkListsreturned [{$result[0][0]}] for user [{$username}]");
 		if($result[0][0] < 3)
 		{
 			return true;
@@ -192,15 +203,104 @@ class Dao_local {
 			return false;
 		}
 	}
+	
+	/* Checks to see if user has < 3 lists on the main page
+	 * Returns true or false; true if good to insert, false if not
+	 * FOR THE FIRST LISTS WHERE folder = $folder
+	*/
+	public function checkListsFolder($user_id, $folder){
+		$conn = $this->getConnection();
+		$saveQuery = "SELECT max(list_order) FROM list WHERE user_id = :user_id AND folder LIKE :folder;";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":user_id", $user_id);
+		$q->bindParam(":folder", $folder);
+		$q->execute();
+		$result = $q->fetchAll();
+		if($result[0][0] < 3)
+		{
+			return true;
+		}
+		else if($result[0][0] == NULL)
+		{
+			return false;
+		}
+		else
+		{
+			return false;
+		}
+	}
 
+	/* Gets the first lists
+	 * Columns and rows in result[][]
+	 * FOR THE FIRST LISTS WHERE folder = NULL
+	*/
 	public function getLists($user_id){
 		$conn = $this->getConnection();
-		$saveQuery = "SELECT * from list WHERE user_id = :user_id AND folder = NULL;";
+		$saveQuery = "SELECT DISTINCT * FROM list WHERE user_id = :user_id AND folder is NULL ORDER BY list_order ASC, item_order ASC;";
 		$q = $conn->prepare($saveQuery);
 		$q->bindParam(":user_id", $user_id);
 		$q->execute();
 		return $q->fetchAll();
-	}	
+	}
+	
+	/* Gets the lists for the folder
+	 * Columns and rows in result[][]
+	 * FOR THE LISTS WHERE folder = $folder
+	*/
+	public function getListsFolder($user_id, $folder){
+		$conn = $this->getConnection();
+		$saveQuery = "SELECT DISTINCT * FROM list WHERE user_id = :user_id AND folder LIKE :folder ORDER BY list_order ASC, item_order ASC;";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":user_id", $user_id);
+		$q->bindParam(":folder", $folder);
+		$q->execute();
+		return $q->fetchAll();
+	}
+
+
+	/* Adds a main list
+	*
+	*/
+	public function addList($userId){
+		$conn = $this->getConnection();
+		$this->logger->LogDebug("Attempting to add list.");
+		$saveQuery = "SELECT MAX(list_order) FROM list where user_id = :userId;";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":userId", $userId);
+		$q->execute();
+		$result = $q->fetchAll();
+		$value = $result[0][0] + 1;
+		$this->logger->LogDebug("Attempting to add list with list order value of [{$value}]");
+		$saveQuery = "INSERT INTO list (user_id, list_name, list_order, item_name, item_order, folder, checked)
+		VALUES (:userId, 'List Name', :value, 'Add Item +', 1, NULL, 0);";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":userId", $userId);
+		$q->bindParam(":value", $value);
+		$q->execute();
+	}
+	
+	/* Adds a list to the specified folder
+	*
+	*/
+	public function addListFolder($userId, $folder){
+		$conn = $this->getConnection();
+		$this->logger->LogDebug("Attempting to add list.");
+		$saveQuery = "SELECT MAX(list_order) FROM list where user_id = :userId AND folder_name LIKE :folder;";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":userId", $userId);
+		$q->bindParam(":folder", $folder);
+		$q->execute();
+		$result = $q->fetchAll();
+		$value = $result[0][0] + 1;
+		$this->logger->LogDebug("Attempting to add list with list order value of [{$value}]");
+		$saveQuery = "INSERT INTO list (user_id, list_name, list_order, item_name, item_order, folder, checked)
+		VALUES (:userId, 'List Name', :value, 'Add Item +', 1, :folder, 0);";
+		$q = $conn->prepare($saveQuery);
+		$q->bindParam(":userId", $userId);
+		$q->bindParam(":folder", $folder);
+		$q->bindParam(":value", $value);
+		$q->execute();
+	}
 
 }
 ?> 

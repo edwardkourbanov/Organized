@@ -1,2 +1,0 @@
-# Organized
-Web Development Project

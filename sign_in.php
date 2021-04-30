@@ -1,3 +1,4 @@
+<?php $pageName = "sign_in"?>
 <?php require_once "menu_bar.php"; ?>
 
 		<title>Organized - Home</title>
@@ -8,7 +9,7 @@
 			<Span id="sign_in_exit"><a href="index.php">X</a></Span>
 			<hr/>
 			<form method="post" action="login_handler.php">
-				<div>username:<input type="text" name="username" 
+				<div><label for="username">username:</label><input id="username" type="text" name="username" 
 				<?php
 				if(isset($_SESSION['username']))
 				{
@@ -17,7 +18,7 @@
 				}
 				unset($_SESSION['username']);			
 				?>></div>
-				<div>password:<input type="password" name="password"></div>
+				<div><label for="password">password:</label><input id='password' type="password" name="password"></div>
 				<div id="sign_in_button"><input type="submit" value="Sign-In"></div>
 			</form>
 			
